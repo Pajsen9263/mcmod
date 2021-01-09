@@ -1,0 +1,42 @@
+{
+  "group": "raygun",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "raygun:ore_plus_plus"
+    },
+    "1": {
+      "item": "raygun:ore_plus_plus"
+    },
+    "2": {
+      "item": "raygun:ore_plus_plus"
+    },
+    "3": {
+      "item": "raygun:ore_plus_plus"
+    },
+    "4": {
+      "item": "raygun:ore_plus_plus"
+    },
+    "5": {
+      "item": "raygun:ore_plus_plus"
+    },
+    "6": {
+      "item": "raygun:ore_plus_plus"
+    },
+    "7": {
+      "item": "raygun:ore_plus_plus"
+    },
+    "8": {
+      "item": "raygun:ore_plus_plus"
+    }
+  },
+  "result": {
+    "item": "raygun:ore_plus_plus_block",
+    "count": 1
+  }
+}

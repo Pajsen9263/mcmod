@@ -1,0 +1,24 @@
+{
+  "group": "raygun",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:diamond_pickaxe"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "raygun:tool_plus_plus_shovel",
+    "count": 1
+  }
+}

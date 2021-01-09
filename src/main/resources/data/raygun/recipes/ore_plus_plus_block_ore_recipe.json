@@ -1,0 +1,13 @@
+{
+  "group": "raygun",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "raygun:ore_plus_plus_block"
+    }
+  ],
+  "result": {
+    "item": "raygun:ore_plus_plus",
+    "count": 9
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "group": "raygun",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "raygun:ore_plus_plus_ore"
+  },
+  "result": {
+    "item": "raygun:ore_plus_plus"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "raygun:block/ore_plus_plus_block"
+    }
+  }
+}

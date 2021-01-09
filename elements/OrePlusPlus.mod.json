@@ -1,0 +1,32 @@
+{
+  "_fv": 13,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "toolplusplus_pickaxe",
+    "customModelName": "Normal",
+    "name": "OrePlusPlus",
+    "rarity": "EPIC",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "stackSize": 1,
+    "enchantability": 64,
+    "useDuration": 2,
+    "toolType": 100.0,
+    "damageCount": 50000,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": true,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": true,
+    "damageVsEntity": 100.0,
+    "specialInfo": [],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 1
+  }
+}

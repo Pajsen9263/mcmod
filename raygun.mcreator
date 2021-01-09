@@ -1,0 +1,180 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "OrePlusPlus",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ore_plus_plus"
+    },
+    {
+      "name": "OrePlusPlusOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ore_plus_plus_ore"
+    },
+    {
+      "name": "OrePlusPlusBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ore_plus_plus_block"
+    },
+    {
+      "name": "OrePlusPlusOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ore_plus_plus_ore_block_recipe"
+    },
+    {
+      "name": "OrePlusPlusBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ore_plus_plus_block_ore_recipe"
+    },
+    {
+      "name": "OrePlusPlusOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ore_plus_plus_ore_smelting"
+    },
+    {
+      "name": "ToolPlusPlusPickaxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tool_plus_plus_pickaxe"
+    },
+    {
+      "name": "ToolPlusPlusAxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tool_plus_plus_axe"
+    },
+    {
+      "name": "ToolPlusPlusSword",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tool_plus_plus_sword"
+    },
+    {
+      "name": "ToolPlusPlusShovel",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tool_plus_plus_shovel"
+    },
+    {
+      "name": "ToolPlusPlusHoe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tool_plus_plus_hoe"
+    },
+    {
+      "name": "ToolPlusPlusPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tool_plus_plus_pickaxe_recipe"
+    },
+    {
+      "name": "ToolPlusPlusAxeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tool_plus_plus_axe_recipe"
+    },
+    {
+      "name": "ToolPlusPlusSwordRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tool_plus_plus_sword_recipe"
+    },
+    {
+      "name": "ToolPlusPlusShovelRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tool_plus_plus_shovel_recipe"
+    },
+    {
+      "name": "ToolPlusPlusHoeRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tool_plus_plus_hoe_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.raygun.tool_plus_plus_pickaxe": "ToolPlusPlus Pickaxe",
+      "item.raygun.tool_plus_plus_shovel": "ToolPlusPlus Shovel",
+      "item.raygun.ore_plus_plus": "OrePlusPlus",
+      "item.raygun.tool_plus_plus_axe": "ToolPlusPlus Axe",
+      "item.raygun.tool_plus_plus_hoe": "ToolPlusPlus Hoe",
+      "item.raygun.tool_plus_plus_sword": "ToolPlusPlus Sword",
+      "block.raygun.ore_plus_plus_ore": "OrePlusPlus Ore",
+      "block.raygun.ore_plus_plus_block": "Block of OrePlusPlus"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "raygun",
+    "modName": "RayGun",
+    "version": "1.0.0",
+    "author": "chaspianstoltzjohannesson, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.raygun",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}
